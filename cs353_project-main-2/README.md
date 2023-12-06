@@ -1,4 +1,4 @@
-# CS353_project
+Database Project
 ## Room/Flat Rental Application
 
 ### Group 17:
